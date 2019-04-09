@@ -1224,13 +1224,13 @@ footer {
 
 footer {
 	text-align: center;
-	padding: 50px 0 ;
+	padding: 20px 0 ;
 
 }
 
 footer p {
 	color: #f8f8f8;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 footer a.totop {
@@ -1270,8 +1270,8 @@ ul.footer-menu li:first-child a {
 }
 
 .social-widget {
-	margin-top: 20px;
-	margin-bottom: 30px;
+	margin-top:5px;
+	margin-bottom: 5px;
 }
 .social-widget ul li a:hover {
 	color: #fff;
